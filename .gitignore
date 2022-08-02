@@ -1,0 +1,3 @@
+stubgen/.vscode/settings.json
+target/*
+stubgen/target/dependencies.txt
