@@ -1,3 +1,4 @@
 stubgen/.vscode/settings.json
 target/*
 stubgen/target/*
+.vscode/settings.json
